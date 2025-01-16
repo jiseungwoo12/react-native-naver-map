@@ -335,3 +335,8 @@ export declare enum LayerGroup {
 - 안드로이드에서 `ScrollView` 내부에 추가할 경우 `scrollGesturesEnabled`를 이용해 맵 스크롤을 제어할 수 있습니다. [#62](https://github.com/QuadFlask/react-native-naver-map/issues/62)
 
 - 마커 클러스터링에 필요한 지도 컨텐츠 영역은 `onCameraChange` 이벤트를 통해 얻을 수 있습니다. [#64](https://github.com/QuadFlask/react-native-naver-map/issues/64)
+
+
+
+## 기능 추가
+- 네이버 지도 기능 추가
